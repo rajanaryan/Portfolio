@@ -1,2 +1,2 @@
 # Portfolio
-this is a internship project
+this is an internship project
